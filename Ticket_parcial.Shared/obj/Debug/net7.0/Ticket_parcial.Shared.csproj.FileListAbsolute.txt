@@ -1,0 +1,14 @@
+C:\VS_Repositories\Ticket_parcial.Shared\bin\Debug\net7.0\Ticket_parcial.Shared.deps.json
+C:\VS_Repositories\Ticket_parcial.Shared\bin\Debug\net7.0\Ticket_parcial.Shared.dll
+C:\VS_Repositories\Ticket_parcial.Shared\bin\Debug\net7.0\Ticket_parcial.Shared.pdb
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\Ticket_parcial.Shared.csproj.AssemblyReference.cache
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\Ticket_parcial.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\Ticket_parcial.Shared.AssemblyInfoInputs.cache
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\Ticket_parcial.Shared.AssemblyInfo.cs
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\Ticket_parcial.Shared.csproj.CoreCompileInputs.cache
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\Ticket_parcial.Shared.dll
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\refint\Ticket_parcial.Shared.dll
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\Ticket_parcial.Shared.pdb
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\ref\Ticket_parcial.Shared.dll
+C:\VS_Repositories\Ticket_parcial.Shared\bin\Debug\net7.0\Ticket_parcial.Shared.runtimeconfig.json
+C:\VS_Repositories\Ticket_parcial.Shared\obj\Debug\net7.0\Ticket_parcial.Shared.genruntimeconfig.cache
